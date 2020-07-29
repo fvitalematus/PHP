@@ -1,7 +1,8 @@
-# PHP Course | Backend: PHP 7, MySQL | Frontend: HTML5, CSS3.
-========================
+# PHP Course 
 
-El siguiente curso consiste en aprender a todos los fundamentos y comenzar a desarrollar Formularios web como el de Inicio de Sesión y Registro de usuarios, con el fin de permitir registrar a usuarios en una Base de Datos y veririfcar cuando los usuarios inicien sesión en nuestra pagina web, para permitirles ver el contenido, siempre y cuando los datos ingresados sean correctos mediante el metodo de validación diseñado.
+# Backend: PHP 7, MySQL | Frontend: HTML5, CSS3.
+
+El siguiente curso consiste en aprender todos los fundamentos y comenzar a desarrollar Formularios web como el de Inicio de Sesión y Registro de usuarios, con el fin de permitir registrar a usuarios en una Base de Datos y veririfcar cuando los usuarios inicien sesión en nuestra pagina web, para permitirles ver el contenido, siempre y cuando los datos ingresados sean correctos mediante el metodo de validación diseñado.
 El proceso consiste en el Diseño y creación de la base de datos, utilizando lenguaje PHP y como Base de Datos MySQL (HeidiSQL), plantillas, vistas y formularios. 
 
 Tambien se confecciona una Galería Dinámica elaborada en PHP y MySQL, en el cual podemos publicar nuestras propias fotos para que los demás usuarios puedan verlas, se puede acceder a cada una de las fotos teniendo cada una con un título y un texto con la descripción. Finalmente cargar y subir la imagen.
